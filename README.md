@@ -24,3 +24,7 @@
 ## 💪🏼 My Contributions
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PauloEnriqueOliveira&theme=github-dark-blue&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/AlexyaF/AlexyaF/output/snake.svg" alt="Snake animation" />
+
+###
