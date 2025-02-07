@@ -20,7 +20,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloEnriqueOliveira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=25D366&title_color=0077B5&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloEnriqueOliveira&bg_color=000&border_color=30A3DC&title_color=0077B5&text_color=FFF)
-
-## 💪🏼 My Contributions
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PauloEnriqueOliveira&theme=github-dark-blue&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
